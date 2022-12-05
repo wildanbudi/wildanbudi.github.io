@@ -1,4 +1,4 @@
-# Jekyll x Bulma
+<!-- # Jekyll x Bulma
 ## W.I.P
 
 >A Minimal Dark theme for jekyll built with [Bulma](bulma.io) 
@@ -24,4 +24,4 @@
 # Screenshots
 
 ## BLOG PAGE
-![Blog page](https://github.com/nativvstudios/jekyllxbulma/raw/main/screenshots/screenshot.png)
+![Blog page](https://github.com/nativvstudios/jekyllxbulma/raw/main/screenshots/screenshot.png) -->

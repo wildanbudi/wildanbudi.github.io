@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! 2"
+title:  "Vegcation"
 date:   2022-02-21 23:35:45 -0400
 categories: jekyll update
-image: "https://picsum.photos/1024?random=1"
+image: "/assets/image/glide-3.png"
 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
